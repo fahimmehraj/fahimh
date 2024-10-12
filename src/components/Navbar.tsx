@@ -16,7 +16,7 @@ export default function Navbar() {
       <Link className="mr-4 mt-4" target="_blank" href="/resume.pdf">
         <h2 className="m-0">resume</h2>
       </Link>
-      <a className="mr-4 mt-4" target="_blank" href="https://github.com/frykher">
+      <a className="mr-4 mt-4" target="_blank" href="https://github.com/fahimmehraj">
         <h2 className="m-0 text-2xl">
           <FaGithub />
         </h2>
